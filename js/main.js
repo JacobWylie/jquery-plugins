@@ -1,7 +1,11 @@
 $(".animsition").animsition({
-  inClass: 'fade-in-right-lg',
-  outClass: 'fade-out-right-lg',
+  inClass: 'fade-in',
+  outClass: 'fade-out',
   linkElement: 'header a',
-  inDuration: 1000,
+  inDuration: 1200,
   outDuration: 500
+});
+
+$('.sticky').sticky({
+	topSpacing:0
 });
