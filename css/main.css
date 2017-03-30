@@ -338,7 +338,7 @@ footer {
   }
 }
 
-header {
+.header {
   background-color: white;
   transition: 1s;
 }
@@ -348,7 +348,9 @@ header {
 
 .is-sticky .work-sticky {
   background-color: white;
-  opacity: 75%;
+  opacity: 10%;
+  padding: 12px 0;
+  margin: 0;
 }
 
 

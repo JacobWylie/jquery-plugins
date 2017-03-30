@@ -10,13 +10,13 @@ $(".animsition").animsition({
 
 // Sitcky main header
 $('.header').sticky({
+	getWidthFrom: '.container',
+	responsiveWidth: true,
 	topSpacing:0
 });
-
 $('.header').on('sticky-start', () => {
 	$('.description').html('We build <strong>Great!</strong> apps');
 });
-
 $('.header').on('sticky-end', () => {
 	$('.description').html('We build apps');
 });
@@ -24,13 +24,24 @@ $('.header').on('sticky-end', () => {
 
 // Sticky /work header
 $('.work-sticky').sticky({
+	getWidthFrom: '.container',
+	responsiveWidth: true,	
 	topSpacing:60
 });
-
 $('.work-sticky').on('sticky-start', () => {
 	$('.work-sticky').append("<a href='#' class='sticky-email'> Email Us</a>");
 });
-
 $('.work-sticky').on('sticky-end', () => {
 	$('.sticky-email').remove();
 });
+
+
+// Main Page Carousel
+$('.main-slide').slick( {
+	fade: true,
+	autoplay: true,
+	autoplaySpeed: 3000,
+	arrows: false,
+	dots: true
+});
+

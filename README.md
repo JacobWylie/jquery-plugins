@@ -3,6 +3,8 @@
 <ul>
 	<li><a href="http://git.blivesta.com/animsition/">Animsition</a></li>
 	<li><a href="http://stickyjs.com/"></a>Sticky</li>
+	<li><a href="http://kenwheeler.github.io/slick/#settings">Slick</a></li>
+	<li><a href="https://github.com/kenwheeler/slick/">Slick-GitHub</a></li>
 </ul>
 <h3>Other Stuff</h3>
 <ul>
