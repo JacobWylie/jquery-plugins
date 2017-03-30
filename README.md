@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Playing with jQuery plugins</h1>
 <h3>Plugins Used</h3>
 <ul>
@@ -11,3 +12,6 @@
 	<li><a href="http://learn.jquery.com/events/">Events</a></li>
 	<li><a href="https://learn.jquery.com/events/introduction-to-custom-events/">Custom Events</a></li>
 </ul>
+=======
+# jquery-plugins
+>>>>>>> first commit
