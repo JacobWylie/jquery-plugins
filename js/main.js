@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // page load animations
 $(".animsition").animsition({
   inClass: 'fade-in',
@@ -114,3 +115,12 @@ $('.team-slide').slick({
 
 
 
+=======
+$(".animsition").animsition({
+  inClass: 'fade-in-right-lg',
+  outClass: 'fade-out-right-lg',
+  linkElement: 'header a',
+  inDuration: 1000,
+  outDuration: 500
+});
+>>>>>>> added animsition to header

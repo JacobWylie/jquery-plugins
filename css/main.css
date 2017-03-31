@@ -6,6 +6,12 @@
 */
 
 /*Main*/
+<<<<<<< HEAD
+=======
+* {
+  box-sizing: border-box;
+}
+>>>>>>> added animsition to header
 
 body{
   color: #B1B9C1;
@@ -37,6 +43,10 @@ ul li {
 .row {
   max-width: 1280px;
   margin: 0 auto;
+<<<<<<< HEAD
+=======
+  padding: 0 20px;
+>>>>>>> added animsition to header
 }
 
 /*Typography*/
@@ -338,6 +348,7 @@ footer {
   }
 }
 
+<<<<<<< HEAD
 .header {
   background-color: white;
   transition: 1s;
@@ -372,3 +383,8 @@ footer {
 
 
 
+=======
+header {
+  background-color: white;
+}
+>>>>>>> added animsition to header
