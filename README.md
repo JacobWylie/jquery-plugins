@@ -1,4 +1,5 @@
 <h1>Playing with jQuery plugins</h1>
+<h2>Check me out here: <a href="https://jacobwylie.github.io/jquery-plugins/index.html">Website</a></h2>
 <h3>Plugins Used</h3>
 <ul>
 	<li><a href="http://git.blivesta.com/animsition/">Animsition</a></li>
