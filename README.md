@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Playing with jQuery plugins</h1>
 <h3>Plugins Used</h3>
 <ul>
